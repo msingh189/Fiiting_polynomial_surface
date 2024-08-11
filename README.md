@@ -2,7 +2,7 @@
 
 ## Paper Link: https://doi.org/10.1007/s11664-021-09099-w
 
-## Paper Title: Metamaterial-Inspired Complementary Split Ring Resonator Sensor with Second-Order Approximation for Dielectric Characterization of Fluids
+## Paper Title: Metamaterial-Inspired Complementary Split Ring Resonator Sensor with Second-Order Approximation for Dielectric Characterization of Fluids (Springer - Journal of Electronic Materials)
 A metamaterial-based Complementary Split Ring Resonator (CSRR) structure is used to develop a sensor for dielectric
 characterization of fluids. The fluid present in the vertical column interacts with the fields around the CSRR causing
 a shift in the transmission coefficient curve (S21). An empirical relationship can be established between the dielectric
